@@ -1,6 +1,6 @@
 # Anaconda  安裝流程 ( Windows版 )
 
-### 1. 先到 anaconda 首頁 <a href="https://www.anaconda.com/products/individual" target="_blank"> https://www.anaconda.com/products/individual </a>
+### 1. 先到 anaconda 首頁 https://www.anaconda.com/products/individual
 <div align="center">
 
 <img src="https://paper-attachments.dropbox.com/s_0A0186464DC587D9D0A739E82BE8E509BD190A6738DE6A8B367B2EFDF33FABA4_1610458379535_anaconda2.png" height="100%" width="60%">
