@@ -1,8 +1,12 @@
 # Anaconda  安裝流程 ( Windows版 )
 
 1. 先到 anaconda 首頁 
-<img src="https://paper-attachments.dropbox.com/s_0A0186464DC587D9D0A739E82BE8E509BD190A6738DE6A8B367B2EFDF33FABA4_1585201351542_main-page.png" height="330" width="495">
-<!-- ![先到 anaconda 首頁](g) -->
+<div align="center">
+
+<img src="https://paper-attachments.dropbox.com/s_0A0186464DC587D9D0A739E82BE8E509BD190A6738DE6A8B367B2EFDF33FABA4_1585201351542_main-page.png" height="100%" width="60%">
+
+</div>
+
 
 2. 下載 Python 3 版 
 ![下載 Python 3 版](https://paper-attachments.dropbox.com/s_0A0186464DC587D9D0A739E82BE8E509BD190A6738DE6A8B367B2EFDF33FABA4_1585201351510_download.png)
